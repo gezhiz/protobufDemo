@@ -1,5 +1,7 @@
-package com.bj58.protos;
+package com.bj58.service;
 
+
+import com.bj58.protos.AddressBookProtos;
 
 import java.io.FileInputStream;
 
